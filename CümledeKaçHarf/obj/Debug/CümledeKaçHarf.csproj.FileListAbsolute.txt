@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\bin\Debug\CümledeKaçHarf.exe.config
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\bin\Debug\CümledeKaçHarf.exe
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\bin\Debug\CümledeKaçHarf.pdb
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\obj\Debug\CümledeKaçHarf.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\obj\Debug\CümledeKaçHarf.Form1.resources
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\obj\Debug\CümledeKaçHarf.Properties.Resources.resources
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\obj\Debug\CümledeKaçHarf.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\obj\Debug\CümledeKaçHarf.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\obj\Debug\CümledeKaçHarf.exe
+C:\Users\Eren\source\repos\CümledeKaçHarf\CümledeKaçHarf\obj\Debug\CümledeKaçHarf.pdb
